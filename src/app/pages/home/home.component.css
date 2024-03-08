@@ -1,0 +1,11 @@
+.container__articles{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+header {
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}

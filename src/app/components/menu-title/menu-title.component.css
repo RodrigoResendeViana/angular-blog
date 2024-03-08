@@ -1,0 +1,10 @@
+.container__menu-title h1 {
+    margin: 10px 0;
+    font-size: 125px;
+    text-align: center;
+    font-family: 'segoe UI';
+}
+
+.container__menu-title hr {
+    margin: 20px 0;
+}
