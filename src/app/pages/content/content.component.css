@@ -1,0 +1,21 @@
+.container__content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px auto;
+
+    border: 1px solid white;
+    height: 100%;
+    width: 70%;
+}
+
+.content__cover img {
+    width: 500px;
+    height: 300px;
+    border-radius: 5px;
+    border: 5px solid white;
+}
+.content__description p {
+    margin: 10px 0;
+    color: grey;
+}

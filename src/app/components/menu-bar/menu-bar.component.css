@@ -3,7 +3,8 @@
 }
 
 .container__menu-bar ul li{
-    margin: 10px 20px;
+    margin: 0 20px;
+    margin-top: 20px;
     list-style: none;
     
 }

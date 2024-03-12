@@ -9,3 +9,9 @@ header {
     display: flex;
     justify-content: center;
 }
+
+.container__articles2{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}

@@ -12,6 +12,12 @@
     margin-top: 50px;
 }
 
+
+.big-card__title h1 {
+    margin: 10px 0;
+}
+
+
 .big-card__title h1 :hover {
     text-decoration: underline;
 }
